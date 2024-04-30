@@ -21,7 +21,7 @@ import numpy as np
 from sklearn.manifold import TSNE
 
 from scipy.stats import rankdata
-data = pd.read_csv('WineMeApp/df_vinos_modelos.csv')
+data = pd.read_csv('WineMeApp/WineMeApp/df_vinos_modelos.csv')
 
 
 def obtener_embeddings(data):
