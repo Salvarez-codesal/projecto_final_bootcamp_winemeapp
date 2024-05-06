@@ -27,7 +27,7 @@ Aquí podemos ver la distribución de los clusters de todos los vinos de nuestra
 De esta manera, cada vez que un usuario seleccione un vino de los 4792 de la base de datos, buscara aquellos mas afines semanticamente en notas de cata y maridaje. Posteriormente, el modelo TOPSIS, 
 
 
-### Conclusiones del proyecto:
+## Conclusiones del proyecto:
 
 🟢 **Innovación Personalizada**: Desarrollamos un motor de recomendación de vinos único que permite a los usuarios ajustar sus preferencias tanto de caracteristicas del vino como de precio y rating, ofreciendo una experiencia adaptada a cada individuo.
 
@@ -36,7 +36,7 @@ De esta manera, cada vez que un usuario seleccione un vino de los 4792 de la bas
 🟢 **Éxito en la Implementación**: Logramos integrar eficazmente nuestro modelo híbrido en una aplicación web interactiva, proporcionando funcionalidades completas y visualizaciones intuitivas.
 
 
-### Futuras líneas de investigación:
+## Futuras líneas de investigación:
 
 🟨 **Visualización Geográfica**: Explorar la ubicación de las bodegas de vinos recomendados en un mapa para proporcionar una perspectiva geográfica de las recomendaciones.
 
