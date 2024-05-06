@@ -10,7 +10,7 @@ _Motor de recomendacion de vinos que usa un modelo hibrido de NLP (Natural Langu
 
 ## Objetivos principales
 
-Este proyecto tiene como objetivo desarrollar un motor de recomendación de vinos que aprovecha las notas de cata y maridaje. La verdadera innovación radica en la capacidad del cliente para personalizar las recomendaciones, permitiéndole ajustar la importancia relativa del precio y el rating de los vinos. Este enfoque único garantiza una experiencia de selección de vinos completamente adaptada a las preferencias individuales del usuario.
+Este proyecto tiene como objetivo desarrollar un motor de recomendación de vinos que aprovecha las notas de cata y maridaje. La verdadera innovación radica en la capacidad del cliente para personalizar las recomendaciones, permitiéndole ajustar la importancia relativa del precio y el rating de los vinos. Este enfoque único, de modelo hibrido, garantiza una experiencia de selección de vinos completamente adaptada a las preferencias individuales del usuario.
 
 Aquí podemos ver la distribución de los clusters de todos los vinos de nuestra base de datos en base a notas de cata y maridaje que los explican:
 
