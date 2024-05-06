@@ -1,7 +1,7 @@
 # Proyecto final de bootcamp: Wine me App! - Recomendador de vinos interactivo
 Este proyecto engloba los resultados del proyecto final del bootcamp en data science y machine learning de ID bootcamps. El objetivo principal es crear un motor de recomendacion de vinos basado en notas de cata y maridaje a partir de un vino dado.
 
-![Banner](https://github.com/Salvarez-codesal/projecto_final_bootcamp_winemeapp/assets/imagenes/Banner.png)
+![Banner](https://github.com/Salvarez-codesal/projecto_final_bootcamp_winemeapp/blob/main/imagenes/Banner.png)
 
 _Motor de recomendacion de vinos que usa un modelo hibrido de NLP y TOPSIS_
 
