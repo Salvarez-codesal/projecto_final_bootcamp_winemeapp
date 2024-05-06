@@ -7,12 +7,12 @@ Este proyecto engloba los resultados del proyecto final del bootcamp en data sci
 
 _Motor de recomendacion de vinos que usa un modelo hibrido de NLP y TOPSIS_
 
-## Table Of Contents
+## Tabla de contenido
 
-* [About the Project](#about-the-project)
+* [Acerca del proyecto](#about-the-project)
 * [Built With](#built-with)
 * [Usage](#usage)
-* [Authors](#authors)
+* [Autor](#authors)
 * [Acknowledgements](#acknowledgements)
 
 ## Recycling
@@ -35,16 +35,20 @@ For a long time, we all became familiar with the 3R's (Recycling, Reduce, Reuse)
 
 In websites like [Greenpeace](https://www.greenpeace.org.au/blog/beyond-reduce-reuse-recycle/) and [52ClimateActions](https://www.52climateactions.com/refuse-reduce-reuse-repair-recycle/full) you can find more information and ideas on how to lead a more sustaianle life.
 
-## Aim of the project
+## Objetivos principales
 
 The aim of the project is to help people navigate the sometimes confussing world of recycling.
 
-## How does it work? :camera:
-1. User uploads a photo
-2. Photo is processed and classified by the model
-3. Result is printed on the screen and registered in a pie chart where the user can see the total of her/his/their queries and classifications. The classes that the model registers in this first version are:
-    - Glass
-    - Organic
-    - Paper and carton
-    - Yellow (plastic and metal)
-    - Recycling point (e-waste, clothes, shoes, furniture)
+## ¿Como funciona? :camera:
+1. Conecta con la web de WineMeApp: https://winemeup.streamlit.app/
+2. Introduce el nombre de un vino que te guste y quieras recomendaciones de vinos similares
+3. Confirma si ese vino está en nuestra base de datos y se mostrara una lista de todos los vinos que contienen ese nombre
+4. Introduce el nombre del vino exactamente como aparece en nuestra base de datos
+
+- Resultados modelo NLP:
+6. Se genera la primera lista de recomendación de vinos basada en notas de catas y maridaje
+
+- Resultados del modelo TOPSIS:
+7. Se pide al usuario un rango de precios
+8. Se realiza la segunda recomendacion, filtrando por ese rango de precio y estableciendo una relacion ponderada entre el "precio" y el "ranking"
+9. Se muestra un gráfico con esa relación (el tamaño de los puntos refleja el ranking, el color, ,el tipo de vino)
